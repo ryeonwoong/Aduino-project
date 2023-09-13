@@ -1,6 +1,6 @@
 # 아두이노 과제
 
-# <코딩설명>
+# <코드설명>
 ![화면 캡처 2023-09-13 213748](https://github.com/ryeonwoong/Aduino-project/assets/127822756/04eeec33-b14b-4837-af50-d25e2cdb9940)
 ![화면 캡처 2023-09-13 213821](https://github.com/ryeonwoong/Aduino-project/assets/127822756/54a52b9a-32ec-48be-b90b-f56ef382a0bb)
 
